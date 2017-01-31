@@ -1,6 +1,7 @@
 # hello-world
 
-#this is a list
+# This is a list
 * item 1
 * item 2
 * item 3
+** This is bold **
